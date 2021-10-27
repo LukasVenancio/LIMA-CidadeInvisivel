@@ -1,0 +1,45 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    width: 600px;
+    height: 100px;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 299px;
+}
+main h2{
+    font-size: 2.5rem;
+    padding-left: 360px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
+    color: #0000;
+    font-weight: 800;
+}
+main h1{
+    font-size: 6.25rem;
+    margin-top: -30px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #fff;
+    color: #0000;
+    font-weight: 900;
+    padding-left: 100px;
+}
+.lendaInfo{
+    display: flex;
+    align-items: center;
+}
+.lenda{
+    color: #f00;
+    font-size: 2.25rem;
+    transform: rotate(270deg);
+    font-weight: 600;
+    margin-left: 70px;
+}
+.info{
+    font-size: 1.25rem;
+    font-weight: 100;
+    margin-left: 19px;
+    width: 400px;
+    height: 160px;
+}
