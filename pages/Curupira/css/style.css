@@ -1,11 +1,11 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-image: url(/pages/Boto/backgroud.jpg);
+    background-image: url(/pages/Curupira/backgroud.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right top;
-    background-color: #E5091430;
+    background-color: #DF232335;
     background-blend-mode: darken;
     display: flex;
     flex-direction: column;
