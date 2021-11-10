@@ -1,0 +1,46 @@
+header{
+    background-color: #0005;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 80px;
+    font-size: 1.5rem;
+}
+.menu > ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+.menu a{
+    color: #fff;
+    text-decoration: 0;
+    font-family: 'Roboto', sans-serif;
+    transition: color .5s;
+}
+.dropdown > li > a:hover{
+    color: darkred;
+    
+}.dropdownsub{
+    display: none;
+    position: absolute;
+    background-color: #0008;
+    width: 150px;
+    font-size: 1.5rem;
+    flex-direction: column;
+    gap: 16px;
+    list-style: none;
+padding-top: 10px;
+    
+}
+.dropdownsub li{
+    height: 40px;
+}
+.dropdown > li:hover .dropdownsub{
+    display: flex;
+    
+}
+
+.dropdownsub li:hover{
+    background-color: darkred;
+}

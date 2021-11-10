@@ -1,0 +1,29 @@
+main{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    padding: 0 80px;
+    font-family: 'Open Sans', sans-serif;
+    align-items: center;
+}
+main h1{
+    font-size: 4.5rem;
+}
+main p{
+    width: 833px;
+    font-size: 1.5rem;
+    font-weight: 100;
+    margin-top: 13px;
+    text-align: center;
+}
+main a{
+    margin-top: 40px;
+    transition: .5s;
+    border-radius: 15px;
+
+}
+main a:hover{
+    background-color: #fff;
+}

@@ -10,7 +10,7 @@ main{
 }
 main h2{
     font-size: 2.5rem;
-    padding-left: 360px;
+    /*padding-left: 360px;*/
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #fff;
     color: #0000;
@@ -18,7 +18,7 @@ main h2{
 }
 main h1{
     font-size: 6.25rem;
-    margin-top: -30px;
+    /*margin-top: -30px;*/
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #fff;
     color: #0000;
@@ -34,12 +34,12 @@ main h1{
     font-size: 2.25rem;
     transform: rotate(270deg);
     font-weight: 600;
-    margin-left: 70px;
+    /*margin-left: 70px;*/
 }
 .sinopse{
     font-size: 1.25rem;
     font-weight: 100;
-    margin-left: 19px;
+    /*margin-left: 19px;*/
     width: 400px;
     height: 160px;
 }
@@ -47,7 +47,7 @@ main h1{
     display: grid;
     grid-template-areas:
     "bloco1 rectangle1 bloco2 rectangle2 bloco3";
-    margin-left: 99px;
+    /*margin-left: 99px;*/
     margin-top: 76px;
 }
 .bloco1{
