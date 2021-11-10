@@ -19,7 +19,7 @@ header{
     transition: color .5s;
 }
 .dropdown > li > a:hover{
-    color: darkred;
+    color: #f005;
     
 }.dropdownsub{
     display: none;
