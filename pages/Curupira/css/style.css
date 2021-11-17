@@ -1,7 +1,7 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-image: url(/pages/Curupira/backgroud.jpg);
+    background-image: url(./Curupira/backgroud.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right top;

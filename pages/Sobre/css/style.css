@@ -1,7 +1,7 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-image: url(/pages/Sobre/background.png);
+    background-image: url(./Sobre/backgroud.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right top;
